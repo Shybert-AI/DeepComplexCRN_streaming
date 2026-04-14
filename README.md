@@ -1,4 +1,4 @@
-# DeepComplexCRN
+# DeepComplexCRN_streaming
 
 基于深度复数循环网络的语音增强系统，支持整段推理和流式推理。
 
