@@ -9,6 +9,15 @@
 问：为什么不直接开源？
 答：流式推理实现复杂，且项目投入了大量研发资源，目前仅通过商业合作共享技术成果。
 
+## ⚠️ 重要声明
+
+- 本项目基于以下两个开源项目开发，并增加了**原创的流式推理**功能：
+  - [huyanxin/DeepComplexCRN](https://github.com/huyanxin/DeepComplexCRN) (Apache-2.0 License)
+  - [Chriszhangmw/DeepComplexCRN](https://github.com/Chriszhangmw/DeepComplexCRN) (Apache-2.0 License)
+- 已按照 Apache-2.0 许可证的要求，保留原始版权声明和许可证副本。
+- 我对本项目中**新增的流式推理功能代码**拥有完整的著作权。
+- 本项目作为衍生作品，**整体以闭源形式提供商业授权**。
+
 ## 目录
 
 - [快速开始](#快速开始)
