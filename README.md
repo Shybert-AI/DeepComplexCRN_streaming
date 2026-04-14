@@ -1,12 +1,7 @@
 # DeepComplexCRN
 
-基于深度复数循环网络的语音增强系统，支持整段推理和流式推理。**🔴 暂源码不开放，欢迎合作交流 🔴** $\textsf{\color{red}暂源码不开放，欢迎合作交流}$
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
-  <rect width="100%" height="100%" fill="#f0f0f0" rx="10"/>
-  <text x="400" y="55" font-family="Arial, sans-serif" font-size="24" fill="#d73a4a" text-anchor="middle" font-weight="bold">
-    暂源码不开放，欢迎合作交流
-  </text>
-</svg>
+基于深度复数循环网络的语音增强系统，支持整段推理和流式推理。**🔴 $\textsf{\color{red}暂源码不开放，欢迎合作交流}$ 🔴** 
+
 
 ## 目录
 
